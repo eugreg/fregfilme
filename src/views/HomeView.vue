@@ -3,7 +3,10 @@
 </script>
 
 <template>
-  <main>
+  <div class="buscar">
+    <input type="text" name="buscar" id=""
+    placeholder="buscar">
+  </div>
     
-  </main>
+  
 </template>

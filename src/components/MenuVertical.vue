@@ -3,6 +3,7 @@
 </script>
 <template>
     <nav class="menu">
+        <h1>FregFilmes</h1>
         <span>Categorias</span>
         <span>Diretores</span>
         <span>Atores</span>
