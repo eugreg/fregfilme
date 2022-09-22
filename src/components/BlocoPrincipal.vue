@@ -12,5 +12,18 @@ import FilmesBloco from "./FilmesBloco.vue";
     <FilmesBloco />
     <FilmesBloco />
   </div>
+  <div class="titulo">
+    <h1>Indicados ao oscar</h1>
+  </div>
+  <div class="conteudo">
+    <FilmesBloco />
+    <FilmesBloco />
+    <FilmesBloco />
+    <FilmesBloco />
+    <FilmesBloco />
+  </div>
+  
+    
+
 </template>
 <style></style>

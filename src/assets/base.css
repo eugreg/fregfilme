@@ -7,26 +7,46 @@ nav{
   justify-content: space-evenly;
   align-items: flex-start;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  height: 50px;
+  
   background-color: red;
   color: white;
   
 }
 .conteudo{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
 }
 body{
   background-color: black;
 }
-.buscar{
-  display: flex;
-  justify-content: center;
-  height: 1000%;
+.busca{
+display: flex;
+justify-content: flex-end;
   
 }
 .titulo{
   top: 1000%;
    color: white;
+}
+a{
+  text-decoration: none;
+  color: white;
+}
+.titulo-cat{
+  position: absolute;
+  left:45%;
+  top: 20%;
+  color: white;
+}
+.busca{
+  left: 15%;
+}
+.conteudo2{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 10%;
+  
+  
 }

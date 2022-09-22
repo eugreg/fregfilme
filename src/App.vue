@@ -1,7 +1,6 @@
 <script setup>
 import { RouterView } from 'vue-router';
 import MenuVertical from './components/MenuVertical.vue';
-import BlocoPrincipal from './components/BlocoPrincipal.vue';
 
 
 </script>
@@ -9,7 +8,6 @@ import BlocoPrincipal from './components/BlocoPrincipal.vue';
 <template>
   <MenuVertical />
   <RouterView />
-  <BlocoPrincipal/>
   
 </template>
 

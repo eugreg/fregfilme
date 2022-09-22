@@ -1,12 +1,11 @@
 <script setup>
-
-</script>
-
-<template>
-  <div class="buscar">
-    <input type="text" name="buscar" id=""
-    placeholder="buscar">
-  </div>
-    
+import BlocoPrincipal from '../components/BlocoPrincipal.vue';
   
+</script>
+<template>
+    <BlocoPrincipal />
 </template>
+
+<style>
+
+</style>
